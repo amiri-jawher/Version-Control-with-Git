@@ -1,2 +1,2 @@
 # Version-Control-with-Git
-This repository give Pro notes in git 
+This repository provides pro tips on Git.
